@@ -1,0 +1,25 @@
+onkyodesktopcontroller by totalkrill
+
+this app has a lot of external jars to run.
+
+this is the ones i have in my project folder, other versions might work too:
+
+'com.ibm.icu_4.4.2.v20110823.jar'
+'org.eclipse.core.commands_3.6.0.I20110111-0800.jar' 
+'org.eclipse.core.runtime_3.7.0.v20110110.jar' 
+'org.eclipse.equinox.common_3.6.0.v20110523.jar' 
+'org.eclipse.equinox.registry_3.5.101.R37x_v20110810-1611.jar' 
+'org.eclipse.jface.text_3.7.2.v20111213-1208.jar' 
+'org.eclipse.jface_3.7.0.v20110928-1505.jar' 
+'org.eclipse.osgi_3.7.2.v20120110-1415.jar' 
+'org.eclipse.swt_3.7.2.v3740f.jar' 
+'org.eclipse.text_3.5.101.v20110928-1504.jar' 
+'org.eclipse.ui.forms_3.5.101.v20111011-1919.jar' 
+'org.eclipse.ui.workbench_3.7.1.v20120104-1859.jar' 
+'swt-gtk-3.8.0.jar' 
+'xstream-1.4.2.jar'
+
+Easiest way to get this to work is to install eclipse, 
+install windowbuilder, create a new swt application project, import the source from this repo. that should include the necesary .jars by default, except the xstream.jar that you will have to find on their site.
+
+http://xstream.codehaus.org/download.html
