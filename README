@@ -19,7 +19,10 @@ this is the ones i have in my project folder, other versions might work too:
 'swt-gtk-3.8.0.jar' 
 'xstream-1.4.2.jar'
 
-Easiest way to get this to work is to install eclipse, 
-install windowbuilder, create a new swt application project, import the source from this repo. that should include the necesary .jars by default, except the xstream.jar that you will have to find on their site.
+Easiest way to get this to work is to install eclipse,
+install windowbuilder, create a new swt application project, 
+import the source from this repo. 
+that should include the necesary .jars by default, 
+except the xstream.jar that you will have to find on their site.
 
 http://xstream.codehaus.org/download.html
