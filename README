@@ -24,8 +24,5 @@ install windowbuilder, create a new swt application project,
 import the source from this repo. 
 that should include the necesary .jars by default, 
 except the xstream.jar that you will have to find on their site.
-
-http://xstream.codehaus.org/download.html
-
-for comments, questions and a few functional .jars for linux 32/64 and win 64
-goto: http://totalkrill.se/wordpress/?page_id=34
+This project has been dead for a while, there will be no new development. If anyone wants to create something like this, 
+i would recommend a total rewrite.
